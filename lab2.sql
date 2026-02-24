@@ -1,4 +1,4 @@
-USE schoo_db;
+USE school_db;
 
 CREATE TABLE tblStudent (
     studentNumber INT(11) AUTO_INCREMENT PRIMARY KEY,
